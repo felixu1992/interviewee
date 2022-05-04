@@ -1,5 +1,5 @@
 * [首页](/docs/home/document)
-* [Java](/do cs/java)
+* [Java](/docs/java)
 ** [集合](/docs/java/collection/Java集合框架)
 * [Python]()
 * [Golang]()
